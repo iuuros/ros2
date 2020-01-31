@@ -8,7 +8,7 @@
   </description>
   <maintainer email="dthomas@osrfoundation.org">Dirk Thomas</maintainer>
   <license>Apache License 2.0</license>
-  <license>BSD</license>  <!-- ros2topic/verb/delay.py|hz.py|bw.py are BSD -->
+  <license>BSD-3-Clause</license>  <!-- ros2topic/verb/delay.py|hz.py|bw.py are BSD -->
 
   <depend>ros2cli</depend>
 
